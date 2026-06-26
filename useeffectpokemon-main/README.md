@@ -119,13 +119,6 @@ Para um projeto com estrutura atual, TypeScript e navegação, pode ser usado:
 npx create-expo-app@latest --template default
 ```
 
-## Sugestões de evolução para aula
 
-- Criar tela de detalhes do Pokémon.
-- Adicionar favoritos.
-- Filtrar por tipo.
-- Criar navegação com abas.
-- Salvar favoritos localmente.
-- Trabalhar com animações.
 
 
